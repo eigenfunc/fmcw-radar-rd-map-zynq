@@ -1,0 +1,32 @@
+# Vivado generated / build output
+vivado/2dfft.cache/
+vivado/2dfft.runs/
+vivado/2dfft.gen/
+vivado/2dfft.hw/
+vivado/2dfft.ip_user_files/
+vivado/2dfft.sim/
+vivado/logs/
+.Xil/
+*.jou
+*.log
+*.str
+*.backup.*
+
+# Vitis workspace / build
+_ide/
+build/
+.metadata/
+compile_commands.json
+
+# Simulation output
+fft_out.txt
+*.vcd
+*.out
+
+# ColoRadar frame dump (852 MB, regenerate with scripts/gen_sd_data.py)
+data/real_*.bin
+!data/real_0000.bin
+
+# Python
+__pycache__/
+*.pyc

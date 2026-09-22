@@ -1,0 +1,12 @@
+* text=auto
+*.v text
+*.xdc text
+*.mem text
+*.c text
+*.py text
+*.md text
+*.bin binary
+*.dcp binary
+*.xsa binary
+*.pptx binary
+*.png binary
